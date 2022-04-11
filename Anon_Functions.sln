@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionLambda1", "Expres
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionLambdas2", "ExpressionLambdas2\ExpressionLambdas2.csproj", "{544A2129-4CF0-4D67-865F-09835B037F5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatementLambdas", "StatementLambdas\StatementLambdas.csproj", "{4E8A7615-4B43-4C29-945E-A7E0882F5285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatementLambdas1", "StatementLambdas1\StatementLambdas1.csproj", "{C4EC365F-606D-4A4C-BDC1-030B7DD63C82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{544A2129-4CF0-4D67-865F-09835B037F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{544A2129-4CF0-4D67-865F-09835B037F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{544A2129-4CF0-4D67-865F-09835B037F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E8A7615-4B43-4C29-945E-A7E0882F5285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8A7615-4B43-4C29-945E-A7E0882F5285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8A7615-4B43-4C29-945E-A7E0882F5285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8A7615-4B43-4C29-945E-A7E0882F5285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4EC365F-606D-4A4C-BDC1-030B7DD63C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4EC365F-606D-4A4C-BDC1-030B7DD63C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4EC365F-606D-4A4C-BDC1-030B7DD63C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4EC365F-606D-4A4C-BDC1-030B7DD63C82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
